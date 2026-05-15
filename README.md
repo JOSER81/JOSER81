@@ -1,12 +1,12 @@
 # Hi 👋, I'm Jose Augusto Lopes Sobrinho
 
-- 🔭 I'm currently working on :Projeto em python usando uma raspberry pi como hospedagem
+- 🔭 I'm currently working on : Projeto em python usando uma raspberry pi como hospedagem
 
-- 🌱 I'm currently learning :Python , C
+- 🌱 I'm currently learning : Python , C
 
-- 👯 I'm looking to collaborate on :back end  Aplicação de software
+- 👯 I'm looking to collaborate on : back end  Aplicação de software
 
-- 📫 How to reach me:joseaugustolopessobrinho@gmail.com
+- 📫 How to reach me: joseaugustolopessobrinho@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
