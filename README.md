@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning **Python , C**
 
-- 👯 I'm looking to collaborate on **Aplicação de Software   Estagio back end**
+- 👯 I'm looking to collaborate on **Aplicação de SoftwareEstagio back end**
 
 - 📫 How to reach me **joseaugustolopessobrinho@gmail.com**
 
